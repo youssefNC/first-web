@@ -1,0 +1,16 @@
+body {
+  background: rgb(73, 68, 138);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 100px;
+  text-transform: uppercase;
+}
